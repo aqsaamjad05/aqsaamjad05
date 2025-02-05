@@ -5,7 +5,7 @@
 
 <h2 align="center">Languages I Use Most</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqsaamjad05&layout=compact&bg_color=ffffff" alt="Top Langs" width="500">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqsaamjad05&layout=compact&bg_color=CEF7D2" alt="Top Langs" width="500">
 </div>
 <br>
 
